@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   viewBox="0 0 200.00001 200.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Telegram.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3047262"
+     inkscape:cx="128.67203"
+     inkscape:cy="117.17011"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="469.46318,679.86016"
+       orientation="0,1"
+       id="guide4151" />
+    <sodipodi:guide
+       position="101.29441,754.72114"
+       orientation="1,0"
+       id="guide4153" />
+    <sodipodi:guide
+       position="447.37305,930.21491"
+       orientation="0,1"
+       id="guide4155" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.7928391,-852.33752)">
+    <circle
+       style="opacity:1;fill:#2ca5e0;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4147"
+       cx="101.79285"
+       cy="952.33752"
+       r="100.00001" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 85.091154,973.36501 c 1.616501,1.56182 14.855321,28.69759 14.855321,28.69759 2.368565,4.1179 4.422935,8.6727 9.945035,8.3644 4.80593,-0.2681 5.38433,-3.1745 7.86256,-10.1939 l 23.93094,-67.78225 c 2.46253,-6.97489 5.87965,-12.39732 1.16839,-16.74931 -3.27666,-3.0268 -7.9375,-1.09988 -16.16244,1.75524 l -68.061664,23.6262 c -5.895612,2.04654 -9.88505,3.29339 -9.940143,8.35437 -0.05687,5.22278 3.298785,7.09569 6.821866,9.05602 0,0 27.870807,13.22011 29.580135,14.87164 z"
+       id="path4157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssssss" />
+  </g>
+</svg>
