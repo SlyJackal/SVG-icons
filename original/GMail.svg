@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="276.69296"
+   height="200"
+   viewBox="0 0 276.69297 200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="GMail.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="168.34136"
+     inkscape:cy="271.78756"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66.589202,-858.16697)">
+    <rect
+       style="opacity:1;fill:#e8e4d8;fill-opacity:1;stroke:none;stroke-width:25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4149"
+       width="276.60043"
+       height="199.80843"
+       x="66.658134"
+       y="858.1806"
+       ry="20.069742" />
+    <path
+       style="opacity:1;fill:#e85a4c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.225763,1057.9888 0,-148.36477 107.250547,74.13928 107.84172,-74.13928 -0.37278,148.36767 c 14.67969,0.5924 17.81932,-0.2879 22.18346,-3.0834 5.71212,-3.883 9.16694,-9.375 9.08573,-16.4247 l 0.0583,-151.20187 c -0.0159,-8.6959 0.46144,-15.5643 -3.8518,-21.0012 -6.74397,-7.8709 -12.01101,-8.1733 -18.60007,-8.1035 l -116.2034,85.5623 -115.064594,-85.5627 c -7.6697,-0.1188 -11.2565,0.8175 -16.3045,5.1901 -7.7922,6.7496 -6.5952,13.1707 -6.5904,20.9084 l 0.06,154.80547 c 0,8.0884 2.2485,9.6552 7.387,14.5326 7.6118,5.569 13.2903,4.3756 23.120997,4.3756 z"
+       id="path4151"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccscscc" />
+    <path
+       style="opacity:1;fill:#f8f5ee;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 89.552866,858.17663 115.067714,85.5636 116.19941,-85.5614 z"
+       id="path4153"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 204.47836,983.76211 138.8038,-95.39358 -0.0684,149.92437 c 0.16675,3.2264 -0.85541,10.6987 -8.0136,15.8028 -5.70348,4.4328 -9.67964,4.1603 -23.25416,3.8876 z"
+       id="path4155"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 97.225463,1056.6229 106.265797,-73.56039 0.98517,0.7003 -107.250967,74.22609 z"
+       id="rect4165"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
